@@ -1,0 +1,16 @@
+2020-03-31 19:19:23,390 
+*******************
+create spark session locally.
+2020-03-31 19:19:23,390 start reading json file from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/input/query2_ref.json
+2020-03-31 19:19:29,315 finish reading json file
+2020-03-31 19:19:29,446 Created select_df: 1. select useful fields 2. convert time to timetsamp 3. concatenate hashtags with
+2020-03-31 19:19:29,642 Created filter_df: filter out malformed tweets and tweets not using specific languages
+2020-03-31 19:19:29,763 Created clean_df: combine uid and uid_str
+2020-03-31 19:19:29,831 Created tweet_df and user_mid_df
+2020-03-31 19:19:29,893 Created user_df: find the latest information of each users
+2020-03-31 19:19:33,659 Saved tweet_df to csv files
+2020-03-31 19:19:41,395 Saved user_df to csv files
+2020-03-31 19:19:41,395 loading tweet_df to localhost/etl_test_dbtest_tweet_table
+2020-03-31 19:19:45,923 finish loading tweet_df
+2020-03-31 19:19:45,923 loading user_df to localhost/etl_test_db as test_user_table
+2020-03-31 19:19:53,060 finish loading user_df

@@ -1,0 +1,11 @@
+2020-03-20 23:31:41,846 
+*******************
+create spark session locally.
+2020-03-20 23:31:41,847 reading tweet_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/testOutput/tweetDf/*.csv
+2020-03-20 23:31:44,592 finish reading tweet_df: 39092 items
+2020-03-20 23:31:44,593 reading user_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/testOutput/userDf/*.csv
+2020-03-20 23:31:45,452 finish reading tweet_df: 39092 items
+2020-03-20 23:31:45,452 loading tweet_df to localhost/etl_test_dbtest_tweet_table
+2020-03-20 23:31:47,999 finish loading tweet_df
+2020-03-20 23:31:47,999 loading user_df to localhost/etl_test_db as test_user_table
+2020-03-20 23:31:49,848 finish loading user_df

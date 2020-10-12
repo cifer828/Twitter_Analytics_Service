@@ -1,0 +1,488 @@
+
+{
+    "created_at": "Fri Apr 04 05:40:22 +0000 2014",
+    "id": 451957428880674816,
+    "id_str": "451957428880674816",
+    "text": "RT @heidi_striker: Make time for others and they will make time for you #truth",
+    // "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    // "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2283965635,
+        "id_str": "2283965635",
+        // "name": "Palleg Golf Club",
+        "screen_name": "Palleg1964",
+        // "location": "Swansea, SA9 2QQ",
+        // "url": "http:\/\/www.palleg-golf.com",
+        "description": "18 hole Parkland Golf Course set in 120 acres of peace & tranquility overlooking the Swansea Valley & Black Mountain. A must play in south wales.",
+        // "protected": false,
+        // "followers_count": 568,
+        // "friends_count": 1560,
+        // "listed_count": 3,
+        // "created_at": "Thu Jan 09 18:35:51 +0000 2014",
+        // "favourites_count": 170,
+        // "utc_offset": null,
+        // "time_zone": null,
+        // "geo_enabled": true,
+        // "verified": false,
+        // "statuses_count": 1201,
+        "lang": "en-gb",
+    //     "contributors_enabled": false,
+    //     "is_translator": false,
+    //     "is_translation_enabled": false,
+    //     "profile_background_color": "C0DEED",
+    //     "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    //     "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    //     "profile_background_tile": false,
+    //     "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/421956992496721920\/yBlpjGiR_normal.jpeg",
+    //     "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/421956992496721920\/yBlpjGiR_normal.jpeg",
+    //     "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2283965635\/1389445745",
+    //     "profile_link_color": "0084B4",
+    //     "profile_sidebar_border_color": "C0DEED",
+    //     "profile_sidebar_fill_color": "DDEEF6",
+    //     "profile_text_color": "333333",
+    //     "profile_use_background_image": true,
+    //     "default_profile": true,
+    //     "default_profile_image": false,
+    //     "following": null,
+    //     "follow_request_sent": null,
+    //     "notifications": null
+    },
+    // "geo": null,
+    // "coordinates": null,
+    // "place": null,
+    // "contributors": null,
+    "retweeted_status": {
+        // "created_at": "Fri Apr 04 02:39:02 +0000 2014",
+        // "id": 451911793766846464,
+        // "id_str": "451911793766846464",
+        "text": "Make time for others and they will make time for you #truth",
+        // "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        // "truncated": false,
+        // "in_reply_to_status_id": null,
+        // "in_reply_to_status_id_str": null,
+        // "in_reply_to_user_id": null,
+        // "in_reply_to_user_id_str": null,
+        // "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2168934495,
+            "id_str": "2168934495",
+            // "name": "Heidi Striker",
+            "screen_name": "heidi_striker",
+            // "location": "",
+            // "url": "http:\/\/StrikerGolfGPS.com",
+            "description": "Marketer Extraordinaire for Striker Golf GPS:  \r\nMobile GPS App and Web Software to Create Tournaments, Leagues, and Outings with Live Scoring",
+            // "protected": false,
+            // "followers_count": 2737,
+            // "friends_count": 2776,
+            // "listed_count": 32,
+            // "created_at": "Tue Nov 05 03:04:24 +0000 2013",
+            // "favourites_count": 5703,
+            // "utc_offset": -14400,
+            // "time_zone": "Eastern Time (US & Canada)",
+            // "geo_enabled": false,
+            // "verified": false,
+            // "statuses_count": 7953,
+            // "lang": "en",
+            // "contributors_enabled": false,
+            // "is_translator": false,
+            // "is_translation_enabled": false,
+            // "profile_background_color": "C0DEED",
+            // "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/441313789032423424\/iAFb0D5W.jpeg",
+            // "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/441313789032423424\/iAFb0D5W.jpeg",
+            // "profile_background_tile": true,
+            // "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000727935039\/03b0ec90c23e649ade6656e8a46ffbb3_normal.jpeg",
+            // "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000727935039\/03b0ec90c23e649ade6656e8a46ffbb3_normal.jpeg",
+            // "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2168934495\/1383624100",
+            // "profile_link_color": "0084B4",
+            // "profile_sidebar_border_color": "000000",
+            // "profile_sidebar_fill_color": "DDEEF6",
+            // "profile_text_color": "333333",
+            // "profile_use_background_image": true,
+            // "default_profile": false,
+            // "default_profile_image": false,
+            // "following": null,
+            // "follow_request_sent": null,
+            // "notifications": null
+        },
+        // "geo": null,
+        // "coordinates": null,
+        // "place": null,
+        // "contributors": null,
+        // "retweet_count": 4,
+        // "favorite_count": 4,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "truth",
+                    "indices": [
+                        53,
+                        59
+                    ]
+                }
+            ],
+        //     "symbols": [],
+        //     "urls": [],
+        //     "user_mentions": []
+        // },
+        // "favorited": false,
+        // "retweeted": false,
+        "lang": "en"
+    },
+    // "retweet_count": 0,
+    // "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "truth",
+                "indices": [
+                    72,
+                    78
+                ]
+            }
+        ],
+    //     "symbols": [],
+    //     "urls": [],
+    //     "user_mentions": [
+    //         {
+    //             "screen_name": "heidi_striker",
+    //             "name": "Heidi Striker",
+    //             "id": 2168934495,
+    //             "id_str": "2168934495",
+    //             "indices": [
+    //                 3,
+    //                 17
+    //             ]
+    //         }
+    //     ]
+    // },
+    // "favorited": false,
+    // "retweeted": false,
+    // "filter_level": "medium",
+    "lang": "en"
+}
+{
+    "created_at": "Fri Apr 04 05:40:26 +0000 2014",
+    "id": 451957445636534272,
+    "id_str": "451957445636534272",
+    "text": "RT @anneotago: @jendab @chelsea_goulton @LogiBeer88 hoping for a good result this week in #gigatowndun :)",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1078480428,
+        "id_str": "1078480428",
+        "name": "Chelsea Goulton",
+        "screen_name": "chelsea_goulton",
+        "location": "",
+        "url": null,
+        "description": null,
+        "protected": false,
+        "followers_count": 93,
+        "friends_count": 61,
+        "listed_count": 2,
+        "created_at": "Fri Jan 11 04:28:15 +0000 2013",
+        "favourites_count": 683,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18616,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/433455352625917952\/NsHBE_rd_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/433455352625917952\/NsHBE_rd_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 04 05:22:06 +0000 2014",
+        "id": 451952830337671168,
+        "id_str": "451952830337671168",
+        "text": "@jendab @chelsea_goulton @LogiBeer88 hoping for a good result this week in #gigatowndun :)",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": 451937272485531648,
+        "in_reply_to_status_id_str": "451937272485531648",
+        "in_reply_to_user_id": 34555874,
+        "in_reply_to_user_id_str": "34555874",
+        "in_reply_to_screen_name": "jendab",
+        "user": {
+            "id": 2379459332,
+            "id_str": "2379459332",
+            "name": "Anne",
+            "screen_name": "anneotago",
+            "location": "",
+            "url": null,
+            "description": "Brit ex-pat living in Te Waipounamu\/South Island, New Zealand",
+            "protected": false,
+            "followers_count": 47,
+            "friends_count": 62,
+            "listed_count": 1,
+            "created_at": "Sat Mar 08 23:42:16 +0000 2014",
+            "favourites_count": 41,
+            "utc_offset": 46800,
+            "time_zone": "Auckland",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4068,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme8\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme8\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/442468043214426112\/6ihFPez6_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/442468043214426112\/6ihFPez6_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2379459332\/1394689235",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "gigatowndun",
+                    "indices": [
+                        75,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jendab",
+                    "name": "Jenna Connors",
+                    "id": 34555874,
+                    "id_str": "34555874",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "chelsea_goulton",
+                    "name": "Chelsea Goulton",
+                    "id": 1078480428,
+                    "id_str": "1078480428",
+                    "indices": [
+                        8,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "LogiBeer88",
+                    "name": "Logan",
+                    "id": 278469648,
+                    "id_str": "278469648",
+                    "indices": [
+                        25,
+                        36
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "gigatowndun",
+                "indices": [
+                    90,
+                    102
+                ]
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "anneotago",
+                "name": "Anne",
+                "id": 2379459332,
+                "id_str": "2379459332",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "jendab",
+                "name": "Jenna Connors",
+                "id": 34555874,
+                "id_str": "34555874",
+                "indices": [
+                    15,
+                    22
+                ]
+            },
+            {
+                "screen_name": "chelsea_goulton",
+                "name": "Chelsea Goulton",
+                "id": 1078480428,
+                "id_str": "1078480428",
+                "indices": [
+                    23,
+                    39
+                ]
+            },
+            {
+                "screen_name": "LogiBeer88",
+                "name": "Logan",
+                "id": 278469648,
+                "id_str": "278469648",
+                "indices": [
+                    40,
+                    51
+                ]
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en"
+}
+{
+    "created_at": "Fri Apr 04 05:43:48 +0000 2014",
+    "id": 451958292898516992,
+    "id_str": "451958292898516992",
+    "text": "\u30e4\u30d5\u30aa\u30af!:\u5e55\u672b\u604b\u611b\u9332\u2606\u82b1\u9b41\u9053\u8d85\u4eba\u6c17\u30a2\u30d0\u30bf\u30fc\u5bbf\u3068\u82b1\u706b\u3000\u30b9\u30c69: \u73fe\u5728\u4fa1\u683c:1 \u5186,\u5165\u672d\u6570:1,\u7d42\u4e86\u65e5\u6642:2014\/04\/10 19:57 http:\/\/t.co\/vcC17WB8a6 #\u30e4\u30d5\u30aa\u30af #\u76f8\u4e92\u30d5\u30a9\u30ed\u30fc",
+    "source": "\u003ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003etwitterfeed\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1536411968,
+        "id_str": "1536411968",
+        "name": "\u82b1\u706b",
+        "screen_name": "hanabitter",
+        "location": "",
+        "url": "http:\/\/bit.ly\/10ACcUB",
+        "description": "\u82b1\u706b\u306b\u95a2\u3059\u308b\u3053\u3068\u3092\u3064\u3076\u3084\u304d\u307e\u3059\u3002\u76f8\u4e92\u30d5\u30a9\u30ed\u30fc\u5927\u52df\u96c6\u266a #\u82b1\u706b #hanabi #sougofollow #\u76f8\u4e92\u30d5\u30a9\u30ed\u30fc",
+        "protected": false,
+        "followers_count": 1679,
+        "friends_count": 1808,
+        "listed_count": 4,
+        "created_at": "Fri Jun 21 12:23:59 +0000 2013",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 70989,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000024752634\/91440d7e4b7b98752bfb597d5c50dd5b_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000024752634\/91440d7e4b7b98752bfb597d5c50dd5b_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30e4\u30d5\u30aa\u30af",
+                "indices": [
+                    92,
+                    97
+                ]
+            },
+            {
+                "text": "\u76f8\u4e92\u30d5\u30a9\u30ed\u30fc",
+                "indices": [
+                    98,
+                    105
+                ]
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "url": "http:\/\/t.co\/vcC17WB8a6",
+                "expanded_url": "http:\/\/bit.ly\/1sfrrDX",
+                "display_url": "bit.ly\/1sfrrDX",
+                "indices": [
+                    69,
+                    91
+                ]
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "ja"
+}

@@ -1,0 +1,58 @@
+INFO  started: Metals version 0.8.4 in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag'
+INFO  time: initialize in 0.37s
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/SaicSparkJdbcDialect.scala
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 11, 2020 2:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag'
+INFO  time: initialize in 0.9s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala
+INFO  started: Metals version 0.8.4 in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/query3_ETL'
+INFO  time: initialize in 0.44s
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/query3_ETL/src/main/scala/Hashtag.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Apr 12, 2020 12:47:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/query3_ETL/src/main/scala/Hashtag.scala
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/query3_ETL/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/query3_ETL/src/main/scala/Hashtag.scala
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/query3_ETL/src/main/scala/Hashtag.scala
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/query3_ETL/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals

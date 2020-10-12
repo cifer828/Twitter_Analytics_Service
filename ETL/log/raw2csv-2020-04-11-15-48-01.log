@@ -1,0 +1,9 @@
+2020-04-11 15:48:05,585 start reading json file from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/input/query2_ref.json
+2020-04-11 15:48:09,816 finish reading json file
+2020-04-11 15:48:09,868 Created select_df
+2020-04-11 15:48:09,932 Created filter_df
+2020-04-11 15:48:09,987 Created clean_df
+2020-04-11 15:48:11,364 Saved tweet_df to csv files
+2020-04-11 15:48:11,364 reading tweet_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/query3
+2020-04-11 15:48:11,422 loading tweet_df to localhost/all_dbtweet_table
+2020-04-11 15:48:13,028 finish loading tweet_df

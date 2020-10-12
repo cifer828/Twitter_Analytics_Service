@@ -1,0 +1,17 @@
+INFO  started: Metals version 0.8.4 in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag'
+INFO  time: initialize in 0.37s
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/SaicSparkJdbcDialect.scala
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala
+INFO  no build target: using presentation compiler with only scala-library
+Apr 11, 2020 2:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag'
+INFO  time: initialize in 0.9s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala
+INFO  shutting down Metals

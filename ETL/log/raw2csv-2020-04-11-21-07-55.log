@@ -1,0 +1,4 @@
+2020-04-11 21:08:00,073 start reading json file from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/input/query2_ref.json
+2020-04-11 21:08:04,595 finish reading json file
+2020-04-11 21:08:04,656 Created select_df
+2020-04-11 21:08:04,727 Created filter_df

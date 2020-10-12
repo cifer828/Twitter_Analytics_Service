@@ -1,0 +1,12 @@
+INFO  started: Metals version 0.8.4 in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL'
+INFO  time: initialize in 0.36s
+WARN  no build tool detected in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL/spark/query3_ETL/src/main/scala/Hashtag.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL/spark/query3_ETL/src/main/scala/SaicSparkJdbcDialect.scala
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL/spark/query3_ETL/src/main/scala/SparkUtils.scala
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/Hashtag.scala
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/SaicSparkJdbcDialect.scala
+WARN  no build tool detected in workspace '/Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/Phase1/twitter/ETL/spark/cleanHashtag/src/main/scala/SaicSparkJdbcDialect.scala
+INFO  shutting down Metals

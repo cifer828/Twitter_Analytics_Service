@@ -1,0 +1,8 @@
+2020-03-20 22:42:59,049 
+*******************
+create spark session locally.
+2020-03-20 22:42:59,049 ready to run test file
+2020-03-20 22:43:02,172 read tweet_df: 39092 items
+2020-03-20 22:43:07,160 read tweet_df: 39092 items
+2020-03-20 22:43:07,160 loading tweet_df to localhost:3306/etl_test_dbtest_tweet_table
+2020-03-20 22:43:09,662 loading user_df to localhost:3306/etl_test_db as test_user_table

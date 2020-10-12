@@ -1,0 +1,3 @@
+2020-04-11 15:46:57,889 reading tweet_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/query3
+2020-04-11 15:47:00,034 loading tweet_df to localhost/all_dbtweet_table
+2020-04-11 15:47:04,168 finish loading tweet_df

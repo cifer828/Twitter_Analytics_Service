@@ -1,0 +1,25 @@
+2020-03-21 18:50:19,254 
+*******************
+create spark session locally.
+2020-03-21 18:50:19,254 reading tweet_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/oneOutput/tweetDf/*.csv
+2020-03-21 18:50:22,684 finish reading tweet_df: 39092 items
+2020-03-21 18:50:22,684 reading user_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/oneOutput/userDf/*.csv
+2020-03-21 18:50:23,453 finish reading tweet_df: 39092 items
+2020-03-21 18:50:24,006 Created user_df: find the latest information of each users
+2020-03-21 18:50:24,006 loading tweet_df to localhost/etl_test_dbone_tweet_table
+2020-03-21 18:50:29,235 finish loading tweet_df
+2020-03-21 18:50:29,235 loading user_df to localhost/etl_test_db as one_user_table
+2020-03-21 18:50:32,131 finish loading user_df
+2020-03-21 18:50:32,139 
+*******************
+create spark session locally.
+2020-03-21 18:52:10,984 
+*******************
+create spark session locally.
+2020-03-21 18:52:21,927 
+*******************
+create spark session locally.
+2020-03-21 18:52:21,927 reading tweet_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/oneOutput/tweetDf/*.csv
+2020-03-21 18:52:22,111 finish reading tweet_df: 39092 items
+2020-03-21 18:52:22,111 reading user_df from file:///Users/qiuchenzhang/Code/CMU/15619/Ying_Liu_Zhi_Zhu-S20/phase1/twitter/ETL/output/oneOutput/userDf/*.csv
+2020-03-21 18:52:22,543 finish reading tweet_df: 39092 items
